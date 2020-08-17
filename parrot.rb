@@ -1,4 +1,4 @@
-def parrot(string="Squawk")
-  puts "#{string}"
+def parrot(sound="Squawk")
+  puts sound
   "#{string}"
 end
